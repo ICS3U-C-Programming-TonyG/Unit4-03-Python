@@ -4,7 +4,7 @@
 
 # Date: 2025-04-16
 
-# powers all numbers between 0 and input number to the power of 2
+# powers all numbers between 0 and input number to the power of 2.
 
 
 def main():
